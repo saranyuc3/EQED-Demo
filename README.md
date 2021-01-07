@@ -1,3 +1,3 @@
 # EQED-Demo
 
-To run the demo, **$./EQEDdemo.sh**
+To run the demo, in terminal run **$./EQEDdemo.sh**
